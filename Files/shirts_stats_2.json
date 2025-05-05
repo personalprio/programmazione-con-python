@@ -1,0 +1,18 @@
+{
+    "nr_prodotti": 102,
+    "tot_prezzo": 1357.4800000000007,
+    "colore": {
+        "bianco": 47,
+        "verde": 33,
+        "rosso": 21,
+        "ciano": 1
+    },
+    "taglia": {
+        "S": 25,
+        "M": 25,
+        "XL": 25,
+        "L": 26,
+        "XXL": 1
+    },
+    "mediaprezzo": 13.3086274509804
+}
